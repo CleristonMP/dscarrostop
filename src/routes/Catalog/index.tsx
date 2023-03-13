@@ -1,3 +1,4 @@
+import Footer from "../../components/Footer";
 import Header from "../../components/Header";
 import SectionCars from "./SectionCars";
 import SectionComments from "./SectionComments";
@@ -11,6 +12,7 @@ export default function Catalog() {
         <SectionCars />
         <SectionComments />
       </main>
+      <Footer />
     </>
   );
 }
