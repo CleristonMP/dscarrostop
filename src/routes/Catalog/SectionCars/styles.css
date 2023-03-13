@@ -1,0 +1,8 @@
+#section-cars {
+  padding: 25px 20px;
+}
+
+.dsct-cards-ctr {
+  display: grid;
+  grid-gap: 25px;
+}
