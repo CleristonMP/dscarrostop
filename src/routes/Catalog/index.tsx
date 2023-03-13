@@ -1,5 +1,6 @@
 import Header from "../../components/Header";
 import SectionCars from "./SectionCars";
+import SectionComments from "./SectionComments";
 import "./styles.css";
 
 export default function Catalog() {
@@ -8,6 +9,7 @@ export default function Catalog() {
       <Header />
       <main>
         <SectionCars />
+        <SectionComments />
       </main>
     </>
   );
